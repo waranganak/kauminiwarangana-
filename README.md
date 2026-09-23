@@ -8,7 +8,7 @@
 <br><br>
 
 <!-- Social Links -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/kaumini-warangana-133960310/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:kauminiwarangana143@gmail.com">
@@ -16,12 +16,6 @@
 </a>
 <a href="https://github.com/waranganak" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <br><br>
